@@ -15,8 +15,6 @@ I'm a second-year Computer Engineering student with a passion for software devel
 - Email: [abdallahvvv999@gmail.com](mailto:abdallahvvv999@gmail.com)
 - LinkedIn: [linkedin.com/in/abdallah-ayman-1a0089290](www.linkedin.com/in/abdallah-ayman-1a0089290)
 
-## ⚡ Fun fact:
-I love watching football and playing video games in my free time!
 
 ---
 
