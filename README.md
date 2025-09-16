@@ -10,7 +10,6 @@ Cairo, Egypt • Email: abdallah.mohamed03@eng-st.cu.edu.eg • LinkedIn: https:
 
 - Machine Learning and Deep Learning
 - Natural Language Processing and large language models
-- Learning model serving and basic MLOps
 
 ### Selected projects
 
@@ -48,7 +47,6 @@ Cairo, Egypt • Email: abdallah.mohamed03@eng-st.cu.edu.eg • LinkedIn: https:
 
 - Better evaluation for LLM apps and RAG
 - Model serving basics and small-scale MLOps
-- More PyTorch practice on DL/NLP
 
 ### Get in touch
 
